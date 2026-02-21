@@ -1,0 +1,5 @@
+file '/home/codespace/.openclaw/workspace/chinese-culture-videos/jingzhe/output/correct_segment_1.mp4'
+file '/home/codespace/.openclaw/workspace/chinese-culture-videos/jingzhe/output/correct_segment_2.mp4'
+file '/home/codespace/.openclaw/workspace/chinese-culture-videos/jingzhe/output/correct_segment_3.mp4'
+file '/home/codespace/.openclaw/workspace/chinese-culture-videos/jingzhe/output/correct_segment_4.mp4'
+file '/home/codespace/.openclaw/workspace/chinese-culture-videos/jingzhe/output/correct_segment_5.mp4'
