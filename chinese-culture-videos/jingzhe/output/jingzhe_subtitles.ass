@@ -1,0 +1,16 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:00.000,00:00:03.500,Default,,0,0,0,,惊蛰，是二十四节气中的第三个节气。
+Dialogue: 0,00:00:03.500,00:00:07.000,Default,,0,0,0,,春雷始鸣，惊醒蛰伏于地下越冬的昆虫。
+Dialogue: 0,00:00:07.000,00:00:10.500,Default,,0,0,0,,此时气温回升，雨水增多，万物开始复苏。
+Dialogue: 0,00:00:10.500,00:00:14.500,Default,,0,0,0,,农民开始春耕，桃花红、李花白，黄莺鸣叫、燕子飞来。
+Dialogue: 0,00:00:14.500,00:00:18.000,Default,,0,0,0,,惊蛰吃梨，寓意远离疾病，开启健康一年。
