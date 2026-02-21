@@ -1,0 +1,10 @@
+file 'output/resized_1.jpg'
+duration 
+file 'output/resized_2.jpg'
+duration 
+file 'output/resized_3.jpg'
+duration 
+file 'output/resized_4.jpg'
+duration 
+file 'output/resized_5.jpg'
+duration 
