@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "ppt-generator": {
+      "version": "1.0.0",
+      "installedAt": 1771639088382
+    },
+    "word-docx": {
+      "version": "1.0.0",
+      "installedAt": 1771639271758
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1771660863281
+    },
+    "edge-tts": {
+      "version": "2.0.0",
+      "installedAt": 1771668962225
+    }
+  }
+}

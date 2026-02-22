@@ -1,0 +1,21 @@
+排名,Skill名称,Skill描述
+1,Gog,Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs
+2,self-improving-agent,Captures learnings, errors, and corrections to enable continuous improvement
+3,Tavily Web Search,AI-optimized web search via Tavily API for AI agents
+4,Summarize,Summarize URLs or files with the summarize CLI
+5,Agent Browser,A fast Rust-based headless browser automation CLI
+6,Find Skills,Helps users discover and install agent skills
+7,Github,Interact with GitHub using the gh CLI
+8,Ontology,Typed knowledge graph for structured agent memory
+9,Weather,Get current weather and forecasts (no API key required)
+10,Sonoscli,Control Sonos speakers
+11,Proactive Agent,Transform AI agents from task-followers into proactive partners
+12,ByteRover,Manages project knowledge using ByteRover context tree
+13,Notion,Notion API for creating and managing pages, databases, and blocks
+14,Nano Banana Pro,Generate/edit images with Nano Banana Pro
+15,API Gateway,Integrate with third-party APIs via OAuth
+16,Nano Pdf,Edit PDFs with natural-language instructions
+17,Obsidian,Work with Obsidian vaults and automate via obsidian-cli
+18,Humanize AI text,Humanize AI-generated text to bypass detection
+19,Humanizer,Remove signs of AI-generated writing from text
+20,Free Ride - Unlimited free AI,Manages free AI models from OpenRouter for OpenClaw
